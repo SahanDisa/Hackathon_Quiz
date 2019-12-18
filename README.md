@@ -1,2 +1,11 @@
 # Hackathon_Quiz
-Small Questions for competition usage
+Questions for Competition usage and enhance the knowlege by practical solutions
+
+# Question Types
+
+- Easy
+- Medium
+- Hard
+
+
+ 
