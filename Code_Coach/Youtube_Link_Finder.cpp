@@ -12,7 +12,8 @@ int main(){
 		if(str1[i]=='='){
 			flag =1; 
 		}else if(str1[i]=='/'){
-			if(str1[i+1]>=65 and str1[i+1]<=90){
+			//Find the upper case or lower case two scenarios
+			if((str1[i+1]>=65 and str1[i+1]<=90) or (str[i]>=97 and str[i]<=122)){
 				flag=1;
 			}
 		}
