@@ -8,6 +8,7 @@ Questions for Competition usage and enhance the knowlege by practical solutions
 - Easy
 - Medium
 - Hard
+- Expert
 
 # Question Areas
 
@@ -16,6 +17,9 @@ Questions for Competition usage and enhance the knowlege by practical solutions
 - Sorting
 - Searching(Brute Force)
 - Combinations
+- Permutation
+- Graphs
+- Dynamic Programming
 
 
 
